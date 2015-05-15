@@ -1,0 +1,8 @@
+{% block color_picker_widget %}
+    {{ form_widget(form, {
+        attr: {
+            class:          attr.class ~' color-picker-control',
+            'data-options': picker_options | json_encode
+        }
+    }) }}
+{% endblock %}

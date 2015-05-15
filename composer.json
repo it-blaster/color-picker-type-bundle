@@ -1,0 +1,24 @@
+{
+    "name": "it-blaster/color-picker-type-bundle",
+    "description": "The FormType for choosing a color",
+    "keywords": ["symfony", "form", "color picker", "iris"],
+    "homepage": "https://github.com/it-blaster/color-picker-type-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yaroslav Gashuk",
+            "email": "fenrizbes@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/framework-bundle": "~2.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Fenrizbes\\ColorPickerTypeBundle": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "Fenrizbes/ColorPickerTypeBundle"
+}
