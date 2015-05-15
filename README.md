@@ -1,5 +1,12 @@
 # ColorPickerTypeBundle
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/it-blaster/color-picker-type-bundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/it-blaster/color-picker-type-bundle/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/it-blaster/color-picker-type-bundle/badges/build.png?b=master)](https://scrutinizer-ci.com/g/it-blaster/color-picker-type-bundle/build-status/master)
+[![License](https://poser.pugx.org/it-blaster/color-picker-type-bundle/license.svg)](https://packagist.org/packages/it-blaster/color-picker-type-bundle)
+[![Total Downloads](https://poser.pugx.org/it-blaster/color-picker-type-bundle/downloads)](https://packagist.org/packages/it-blaster/color-picker-type-bundle)
+[![Latest Unstable Version](https://poser.pugx.org/it-blaster/color-picker-type-bundle/v/unstable.svg)](https://packagist.org/packages/it-blaster/color-picker-type-bundle)
+[![Latest Stable Version](https://poser.pugx.org/it-blaster/color-picker-type-bundle/v/stable.svg)](https://packagist.org/packages/it-blaster/color-picker-type-bundle)
+
 The FormType for choosing a color based on [Iris](https://github.com/Automattic/Iris).
 
 ## Installation
