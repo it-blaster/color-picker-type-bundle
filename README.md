@@ -25,7 +25,7 @@ Register the bundle in your `AppKernel.php`
 
 ```php
 ...
-new Fenrizbes\ColorPickerTypeBundle\FenrizbesColorPickerTypeBundleBundle(),
+new Fenrizbes\ColorPickerTypeBundle\FenrizbesColorPickerTypeBundle(),
 ...
 ```
 
