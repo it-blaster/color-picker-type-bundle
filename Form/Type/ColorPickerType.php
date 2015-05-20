@@ -40,7 +40,7 @@ class ColorPickerType extends AbstractType
                 ),
                 'constraints' => array(
                     new Regex(array(
-                        'pattern' => '/\#[\da-f]{6}/i'
+                        'pattern' => '/^#[\da-f]{6}$/i'
                     ))
                 )
             ))
