@@ -1,5 +1,5 @@
 services:
-    masked:
+    color_picker:
         class: Fenrizbes\ColorPickerTypeBundle\Form\Type\ColorPickerType
         tags:
             - { name: form.type, alias: color_picker }
